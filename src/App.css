@@ -2,7 +2,7 @@
 
 /* Global Styles */
 :root {
-  --primary-color: #dc3545;
+  --primary-color: #272d81;
   --dark-color: #333333;
   --light-color: #f4f4f4;
   --danger-color: #dc3545;
@@ -381,8 +381,7 @@ table th {
   .hide-sm {
     display: none;
   }
-
-  .grid-2,
+  y .grid-2,
   .grid-3,
   .grid-4 {
     grid-template-columns: 1fr;
