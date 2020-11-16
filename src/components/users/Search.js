@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import PropTypes from "prop-types";
+import Spinner from "../../components/layout/Spinner";
 
 class Search extends Component {
   state = {

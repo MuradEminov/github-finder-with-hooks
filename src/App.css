@@ -110,12 +110,18 @@ img {
 }
 
 /* Cards */
-.card {
+.card,
+.card-user {
   padding: 1rem;
   border: #ccc 1px dotted;
   margin: 0.7rem 0;
+  background-color: rgb(255, 255, 255);
 }
 
+.card:hover {
+  border-radius: 45px;
+  background-color: rgb(226, 217, 217);
+}
 /* List */
 .list {
   margin: 0.5rem 0;
